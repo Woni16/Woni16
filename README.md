@@ -17,7 +17,13 @@
 - 🔧 게임 로직, AI, 물리 엔진, 툴 제작에 관심이 많습니다.
 - 🎓 혼자서도 공부하며 꾸준히 성장 중입니다.
 
----
+## 📸 현생 이미지
+
+<p align="center">
+  <img src="./friday.jpg" height="200" />
+  <img src="./monday.jpg" height="200" />
+  <img src="./redpanda.jpg" height="200" />
+</p>
 
 ## 🛠 Tech Stack
 
