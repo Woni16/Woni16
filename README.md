@@ -21,8 +21,8 @@
 
 <p align="center">
   <img src="./friday.jpg" height="200" />
-  <img src="./monday.jpg" height="200" />
   <img src="./redpanda.jpg" height="200" />
+  <img src="./monday.jpg" height="200" />
 </p>
 
 ## 🛠 Tech Stack
